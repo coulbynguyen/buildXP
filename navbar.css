@@ -1,0 +1,90 @@
+header{
+  width: 100%;
+  background-color: #000;
+  height: 5%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+
+}
+
+li {
+  padding: auto;
+  float: left;
+  height: 100%;
+  color: #ead78c;
+  font-family: "Patrick Hand SC";
+}
+.adventures-li{
+  width: 30%;
+}
+.semantics-li{
+  width: 30%;
+}
+.login-li{
+  width: 20%;
+}
+.logo-li{
+  padding: 0 0 0 0;
+  float: left;
+  width: 20%;
+  height: 100px;
+}
+
+
+li a {
+  margin: auto;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  color: #ead78c;
+  font-size: 42px;
+  height: 100px;
+}
+.logo{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.login-btn{
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  color: #000;
+  background-color: #ead78c;
+  float: left;
+  text-align: center;
+  border-radius: 5%;
+  font-size: 20px;
+  margin-top: 7%;
+
+}
+
+.login-btn:hover{
+  background-color: #ffffff;
+}
+
+.navbar-text{
+  margin: 0 0 0 0;
+  height: 100%;
+  padding-top: 2.5%;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.logo:hover{
+  background-color: #000;
+}
