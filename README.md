@@ -1,0 +1,2 @@
+# buildXP
+There are countless number of people who have an amazing idea without the knowledge or capital to see their ideas developed into a finished product. On the developers end, thousands of college students are looking for projects to complete to bolster their resumes and learn real world computer science applications. BuildXP connects entrepreneurs to budding programmers with minimal upfront investment needed from the client, and low stress work for programmers to build knowledge and experience, while providing the client with the product they wanted.
