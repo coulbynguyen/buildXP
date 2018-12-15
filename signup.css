@@ -1,0 +1,44 @@
+.signup-container{
+  margin-top: 2.5%;
+  border: 1px solid #000000;
+  width: 40%;
+  margin-left: 30%;
+  text-align: center;
+}
+input{
+  width: 25%;
+  margin: 0 0 0 0;
+  margin-bottom: 10px;
+  font-family: "Patrick Hand SC";
+  font-size: 12pt;
+}
+select{
+  margin-bottom: 10px;
+  font-family: "Patrick Hand SC";
+  font-size: 12pt;
+}
+option{
+  font-family: "Patrick Hand SC";
+  font-size: 12pt;
+}
+.full{
+  width: 51%;
+}
+.submit-btn{
+  width: 52%;
+  /* height: 5%; */
+  border: 1px solid #000000;
+  background-color: #ead78c;
+  margin-left: 24%;
+  margin-bottom: 5%;
+}
+
+.submit-btn:hover{
+  transition-duration: 0.4s;
+  background-color: #A39662;
+}
+
+.submit-btn-text{
+  margin: 0 0 0 0;
+  font-size: 16pt;
+}

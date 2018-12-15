@@ -1,0 +1,68 @@
+.entrepreneur-dev{
+  margin-left: 30%;
+  margin-top: 10px;
+  width:40%;
+  background-color: #ffffff;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.entrepreneur-dev-btn{
+    float:left;
+    width:50%;
+    text-align: center;
+    font-size: 24pt;
+}
+
+.entrepreneur-dev-btn:hover{
+    background-color: #111;
+}
+
+.for-developer-container, .for-entrepreneur-container{
+  /* border: 1px solid black; */
+  width:90%;
+  margin-left: 5%;
+  margin-top: 10px;
+}
+
+.for-developer-intro, .for-entrepreneur-intro, .for-developer-body, .for-entrepreneur-body, .for-developer-example, .for-entrepreneur-example{
+  /* border: 1px solid red; */
+  width: 100;
+  height: 300px;
+  margin-top: 10px;
+}
+
+.for-developer-intro-text, .for-entrepreneur-intro-text, .for-developer-body-text, .for-entrepreneur-body-text, .for-developer-example-text, .for-entrepreneur-example-text{
+  /* border: 1px solid blue; */
+  width: 65%;
+  height: 100%;
+  float: left;
+}
+.for-entrepreneur-example{
+  height: 450px;
+}
+
+.for-developer-intro-img, .for-entrepreneur-intro-img, .for-developer-body-img, .for-entrepreneur-body-img, .for-developer-example-img, .for-entrepreneur-example-img{
+  /* border: 1px solid green; */
+  width: 30%;
+  height: 100%;
+  margin-left: 4.5%;
+  float: left;
+}
+.semantics-img{
+  width:100%;
+  height: 100%;
+  max-height: 300px;
+}
+
+.content-li{
+  clear: both;
+  color: black;
+}
+.example-img{
+  margin-top: 15%;
+}
+
+.hidden{
+  display: none;
+}

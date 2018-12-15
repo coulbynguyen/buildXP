@@ -1,0 +1,36 @@
+.form-text{
+  font-family: "Patrick Hand SC";
+  font-size:24pt;
+}
+
+input{
+  height:25px;
+  font-size: 12pt;
+}
+
+.login-container{
+  border: 1px solid black;
+  width: 40%;
+  margin-left: 30%;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.submit-btn-text{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.submit-btn{
+  width: 46%;
+  /* height: 5%; */
+  border: 1px solid #000000;
+  background-color: #ead78c;
+  margin-left: 27%;
+  margin-bottom: 5%;
+}
+
+.submit-btn:hover{
+  transition-duration: 0.4s;
+  background-color: #A39662;
+}

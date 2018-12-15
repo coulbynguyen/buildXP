@@ -1,0 +1,79 @@
+.filter-tab{
+  width: 16.55%;
+  text-align: center;
+  border: 1px solid #ead78c;
+  font-size: 18pt;
+}
+
+.filter-tab:hover{
+  background-color: #111;
+}
+
+.individual-post-container{
+  margin-top: 10px;
+  padding: 0 0 0 0;
+  height: 150px;
+  width: 70%;
+  margin-left: 15%;
+  border: 2px solid black;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.description-container{
+  width:80%;
+  height:100%;
+  margin-left: 2.5%;
+  overflow: hidden;
+  float: left;
+  font-family: "Patrick Hand SC";
+}
+
+.language-container{
+  width:15%;
+  height:100%;
+  /* border:1px solid black; */
+  margin-top: 0;
+  /* border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px; */
+  background-color: #000;
+  color: #ead78c;
+  float: left;
+}
+
+h1{
+  font-size: 56pt;
+  text-align: center;
+  margin-top:10%;
+  font-family: "Patrick Hand SC";
+}
+
+.individual-p{
+  margin-top: 1%;
+  font-size: 14pt;
+}
+
+.project-name-field{
+  width: 50%;
+  float: left;
+}
+
+.author-name-field{
+  width: 50%;
+  float:left;
+}
+
+.due-date-field{
+  clear: both;
+  width: 50%;
+  float: left;
+}
+
+.language-field{
+  width: 50%;
+  float: left;
+}
+
+.project-description-field{
+  clear: both;
+}
